@@ -1,0 +1,23 @@
+3. Obstacles
+Quick and Anonymous Transactions:
+
+Computer transactions happen rapidly and can be conducted from anywhere.
+These transactions often involve encryption, making it difficult to trace the individuals involved.
+Lack of Identifying Traits:
+
+Unlike traditional methods like handwriting or signatures, computer transactions lack tangible traits for identifying the responsible individuals.
+Ephemeral Paper Trails:
+
+Any paper trail left by computer records is ephemeral and can be quickly altered or removed.
+Automatic Erasure by Auditing Tools:
+
+After computer transactions are completed, auditing tools may automatically erase the corresponding digital evidence.
+Simplicity of Data Alteration:
+
+The ease with which data can be altered and transactions conducted anonymously adds to the complexity of electronic crime investigations.
+Challenges in Investigation:
+
+Investigating electronic crimes is inherently challenging due to the factors mentioned above.
+Adherence to Norms:
+
+Despite these challenges, investigators aim to follow established norms for evidence collection and remain diligent in their efforts to gather information.
